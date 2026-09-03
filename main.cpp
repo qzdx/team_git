@@ -1,17 +1,5 @@
 int main(){
-    // i am boss
-    // i write many code here
-}
-int func(){
-
+ // i am quzhenda , i write this code 
 }
 
-int jack(){
 
-}
-
-int booss(){
-
-}
-
-iint boss2(){}int boss2(){}int boss2(){}int boss2(){}int boss2(){}nt boss2(){}
