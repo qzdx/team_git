@@ -1,16 +1,15 @@
-qweqweqweqw
-qw
-e
-qw
-e
-qw
-e
-qw
-eqw
-e
-qwe
-qw
-e
+int main(){
+    // i am boss
+    // i write many code here
+}
+int func(){
 
-qw
-e
+}
+
+int jack(){
+
+}
+
+int booss(){
+
+}
