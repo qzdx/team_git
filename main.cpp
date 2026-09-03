@@ -1,16 +1,7 @@
-qweqweqweqw
-qw
-e
-qw
-e
-qw
-e
-qw
-eqw
-e
-qwe
-qw
-e
+int main(){
+ // i am quzhenda , i write this code 
+}
+int func(){
 
-qw
-e
+
+}
